@@ -74,3 +74,13 @@ node <script> "your prompt" --token YOUR_TOKEN
 Returns a direct image URL.
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node cityscapeartgenerator.js "stunning cityscape view, dramatic urban skyline with towering skyscrapers and glowing windows, cinematic composition, atmospheric lighting, neon signs and street lamps reflecting on wet streets, depth of field, golden hour or twilight blue hour, ultra detailed architecture, high resolution, photorealistic detail"
+```
+
+![Example output](https://oss.talesofai.cn/picture/797a0ab4-5863-4b76-9a9b-0b5821d58226.webp)
+
+> Prompt: *"stunning cityscape view, dramatic urban skyline with towering skyscrapers and glowing windows, cinematic composition, atmospheric lighting, neon signs and street lamps reflecting on wet streets, depth of field, golden hour or twilight blue hour, ultra detailed architecture, high resolution, photorealistic detail"*
